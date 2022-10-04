@@ -4,14 +4,12 @@
     top: 32px;
     min-width: 32px;
     min-height: 32px;
-    opacity: 1;
     border: #E0F1E4 1px solid;
     border-radius: 6px;
     padding: 5px;
     background-color: #E0F1E4;
 }
 .close:hover {
-    opacity: 1;
     cursor: pointer;
 }
 
